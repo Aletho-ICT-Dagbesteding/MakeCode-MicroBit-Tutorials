@@ -1,7 +1,5 @@
 # MakeCode-MicroBit-Tutorials
 
-> Open this page at [https://gerlinde1997.github.io/microbit_tutorial-test1/](https://gerlinde1997.github.io/microbit_tutorial-test1/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -17,7 +15,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/gerlinde1997/microbit_tutorial-test1** and click import
+* paste **https://github.com/Aletho-ICT-Dagbesteding/MakeCode-MicroBit-Tutorials** and click import
 
 ## Blocks preview
 
