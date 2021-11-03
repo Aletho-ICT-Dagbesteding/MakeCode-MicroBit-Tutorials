@@ -1,6 +1,6 @@
 # Test tutorial - 1
 
-## Introductie @showdialog
+## Introductie
 Tijd om te gaan programmeren!
 
 ## Stap 1
