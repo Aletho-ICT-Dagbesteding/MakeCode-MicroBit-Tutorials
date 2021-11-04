@@ -6,7 +6,7 @@ Zijn we weer...
 ## Stap 1
 tralalalala
 
-## Let op! @showhint
+## Let op! @fullscreen
 DRAMATISCHE EFFECT van een showhint/fullscreen.
 
 ## Stap 2
