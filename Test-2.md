@@ -1,6 +1,6 @@
 # Test tutorial - 2
 
-## Introductie @unplugged
+## Introductie @showdialog
 YEAAHH  
 We gaan programmeren met een template gheghe
 
