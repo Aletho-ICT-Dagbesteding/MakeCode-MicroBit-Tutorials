@@ -59,3 +59,7 @@ Code downloaden op eigen micro:bit
 
 ## Afsluiting
 blablablablablablablablabla
+
+```template
+basic.forever(function () {
+})```
