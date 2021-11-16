@@ -23,6 +23,9 @@ Door hier blokken naartoe te slepen en op elkaar aan te sluiten schrijf jij stra
 Laten we snel ontdekken welke blokken er allemaal zijn!
 
 ## Stap 3
+
+[//]: # (DEZE STAP NAAR HET EINDE!!)
+
 Links heb je de **blokkenlade**.  
 In elke categorie (kleur) zitten verschillende codeblokken.  
 Klik maar eens op een paar categorieën om te kijken!  
@@ -59,7 +62,3 @@ Code downloaden op eigen micro:bit
 
 ## Afsluiting
 blablablablablablablablabla
-
-```template
-basic.forever(function () {
-})```
