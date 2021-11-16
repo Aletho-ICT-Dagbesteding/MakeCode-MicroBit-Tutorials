@@ -1,10 +1,10 @@
-# Leer de editor kennen!
+# Hoe werkt de editor?
 
 ## Introductie @showdialog
 Welkom in de MakeCode editor!  
 In deze tutorial ga je de basis van de MakeCode editor leren kennen.  
 Hierna weet je hoe je kan programmeren in deze editor en hoe je jouw geschreven programma's 
-kan testen en uitvoeren op de **micro:bit** en de **micro:Maqueen**.  
+kan testen en l uitvoeren door de **micro:bit** en de **micro:Maqueen**.  
 
 
 *Klik op de groene OK knop om door te gaan*
@@ -13,9 +13,8 @@ kan testen en uitvoeren op de **micro:bit** en de **micro:Maqueen**.
 In deze box zie je de uitleg van de tutorial die je volgt.  
 In het balkje hierboven zie je bij welke stap je bent.    
 Wil je een stap terug? Klik dan op de pijl links. 
-
-Laten we eerst meer gaan ontdekken!  
-**Klik nu op de pijl rechts**, dan gaan we verder naar de volgende stap!
+  
+**Druk nu op de pijl rechts**. Dan gaan we verder naar de volgende stap!
 
 ## Stap 2
 Onder deze uitleg zie je de blokken ``||basic:on start||`` en ``||basic:forever||``.  
@@ -31,18 +30,32 @@ Klik maar eens op een paar categorieën om te kijken!
 *Het zijn er erg veel, hè? Waarschijnlijk heb je ook nog geen idee wat het doet.*  
 *Dat is logisch en helemaal niet erg! In de loop van verschillende tutorials zul je steeds meer blokken ontdekken en leren gebruiken.*
 
-
 ## Stap 4
 Laten we nu eens een blok pakken!  
-Klik op de categorie Basic en sleep het blok ``||basic: show number||`` in de werkruimte. 
-Het blok is nu geel. Dit betekend dat het niks doet. 
+Klik op de categorie ``||basic: Basic||`` en sleep het blok ``||basic: show number||`` in de werkruimte.   
+Het blok is nu geel en doet nog niks.   
+Op naar de volgende stap om er mee te gaan programmeren.
+**plaatje hint?** 
+
 
 ## Stap 5
-Sleep de ``||basic: show number||`` nu in ``||basic:forever||``.
-**Als hint een gifje/plaatje invoegen??**
+Het ``||basic:forever||`` blok heet een **container blok**. Containerblokken hebben een platte boven- en onderkant. Daartussen kunnen andere blokken geklikt worden.
+Containerblokken bepalen *wanneer* de code in dat blok wordt uitgevoerd. 
 
+## Stap 6
+``||basic: show number||`` is een **standaard blok**. Standaar blokken klik je in containerblokken en worden van boven naar beneden, om de beurt uitgevoerd. 
+
+Klik nu ``||basic: show number||`` nu in het ``||basic:forever||`` blok.  
+
+``||basic: Show number||`` *is nu actief en wordt de hele tijd (forever) uitgevoerd.*      
+Gefeliciteerd! Je hebt zojuist je eerste stuk code geschreven!
+**Als hint een gifje invoegen??**
+
+## Stap 7
+Kijken naar simulator -> nummer veranderen
 
 ## Stap 8
-Het kan gebeuren dat je wat meer informatie wilt om een stap uit te voeren.  
-Je kunt dan op de knop met de gloeilamp klikken voor een hint.    
-Probeer maar!
+Code downloaden op eigen micro:bit
+
+## Afsluiting
+blablablablablablablablabla
