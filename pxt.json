@@ -1,5 +1,5 @@
 {
-    "name": "Test-1",
+    "name": "",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -13,7 +13,7 @@
         "Test-1.md",
         "Test-2.md",
         "Test-3.md",
-        "Henk.md"
+        "Editor.md"
     ],
     "testFiles": [
         "test.ts"

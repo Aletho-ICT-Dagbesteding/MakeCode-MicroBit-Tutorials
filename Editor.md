@@ -4,7 +4,7 @@
 Welkom in de MakeCode editor!  
 In deze tutorial ga je de basis van de MakeCode editor leren kennen.  
 Hierna weet je hoe je kan programmeren in deze editor, hoe je jouw geschreven programma's 
-kan testen en laten uitvoeren door de **micro:bit** en de **micro:Maqueen**.  
+kan testen en laten uitvoeren door de **micro:bit**.  
 
 
 *Klik op de groene OK knop om door te gaan*
@@ -33,13 +33,13 @@ In de volgende stap leer je wat dat verschil betekend.
 
 ## Stap 4
 Het ``||basic:forever||`` blok heet een **container blok**. Containerblokken hebben een platte boven- en onderkant. Daartussen kunnen andere blokken geklikt worden. Containerblokken bepalen *wanneer* de code in dat blok wordt uitgevoerd.    
-``||basic: show number||`` is een **standaard blok**. Standaard blokken klik je in containerblokken en worden van boven naar beneden, om de beurt uitgevoerd.    
+``||basic: show number||`` is een **standaard blok**. Standaard blokken klik je in containerblokken en worden van boven naar beneden, om de beurt, uitgevoerd.    
 Laten we er in de volgende stap mee aan het werk gaan!
 
 ## Stap 5
-Klik nu ``||basic: show number||`` nu in het ``||basic:forever||`` blok.  
+Klik nu ``||basic: show number||`` in het ``||basic:forever||`` blok.  
 Zie je ook dat ``||basic: show number||`` nu ingekleurd is?  
-*Dat betekend dat ``||basic: show number||`` nu actief is en zal de hele tijd (forever) worden uitgevoerd.*  
+*Dat betekend dat ``||basic: show number||`` nu actief is en zal in dit geval de hele tijd (forever) worden uitgevoerd.*  
 Klik nu op het witte ovaal in het ``||basic: show number||`` blok, vul daar je leeftijd in en druk op Enter.  
 
 
@@ -67,7 +67,8 @@ Zie jij jouw leeftijd afgespeeld worden op de simulator?
 Als hij het doet, werkt jouw code goed en kan je door naar de volgende stap!  
 
 
-*Werkt het niet? Vraag dan iemand van de begeleiding om hulp.*
+*Werkt het niet? Kijk eens bij de hint van de vorige stap. Komt dit plaatje overeen met jouw code?*    
+*Kom je er niet uit? Vraag dan iemand van de begeleiding om hulp.*
 
 
 ## Stap 7
