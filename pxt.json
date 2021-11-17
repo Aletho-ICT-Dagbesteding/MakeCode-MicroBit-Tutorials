@@ -13,7 +13,7 @@
         "Test-1.md",
         "Test-2.md",
         "Test-3.md",
-        "Henk.md",
+        "Henk.md"
     ],
     "testFiles": [
         "test.ts"
