@@ -28,7 +28,7 @@ Het blok is nu geel en doet nog niks.
 Zie jij ook het verschil in vorm tussen het ``||basic:forever||`` en het ``||basic: show number||`` blok?  
 In de volgende stap leer je wat dat verschil betekend.
 
-![blocks in workspace](/images/editor_tutorial1.png)
+![blocks in workspace](/static/tutorials/editor_tutorial1.png)
 
 
 ## Stap 4
@@ -80,7 +80,7 @@ Super gedaan! Jouw geschreven code wordt nu goed uitgevoerd door de micro:bit.
 
 
 *Werkt het niet? Vraag dan iemand van de begeleiding om hulp.*
-![connected](/images/connect_2.png)
+![connected](/static/trello/connect_2.png)
 
 ## Afsluiting
 Gefeliciteerd! Je hebt zojuist jouw eerste programma voor de micro:bit gemaakt en uitgevoerd.  
