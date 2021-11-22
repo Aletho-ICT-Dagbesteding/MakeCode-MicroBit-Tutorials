@@ -26,7 +26,7 @@ Links heb je de **blokkenlade**. Door blokken vanuit de **blokkenlade** naar de 
 Klik in de blokkenlade op de categorie ``||basic: Basic||`` en sleep het blok ``||basic: show number||`` in de werkruimte.   
 Het blok is nu geel en doet nog niks.  
 Zie jij ook het verschil in vorm tussen het ``||basic:forever||`` en het ``||basic: show number||`` blok?  
-In de volgende stap leer je wat dat verschil betekend.
+In de volgende stap leer je wat dat verschil betekent.
 
 ![blocks in workspace](https://raw.githubusercontent.com/Aletho-ICT-Dagbesteding/MakeCode-MicroBit-Tutorials/main/docs/static/tutorials/editor_tutorial1.png)
 
@@ -39,7 +39,7 @@ Laten we er in de volgende stap mee aan het werk gaan!
 ## Stap 5
 Klik nu ``||basic: show number||`` in het ``||basic:forever||`` blok.  
 Zie je ook dat ``||basic: show number||`` nu ingekleurd is?  
-*Dat betekend dat ``||basic: show number||`` nu actief is en zal in dit geval de hele tijd (forever) worden uitgevoerd.*  
+*Dat betekent dat ``||basic: show number||`` nu actief is en zal in dit geval de hele tijd (forever) worden uitgevoerd.*  
 Klik nu op het witte ovaal in het ``||basic: show number||`` blok, vul daar je leeftijd in en druk op Enter.  
 
 
