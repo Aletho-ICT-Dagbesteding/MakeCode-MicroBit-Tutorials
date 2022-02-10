@@ -27,7 +27,7 @@ basic.forever(function(){
 ```
 ## Stap 3
 Verbind nu de micro:bit met de computer en ``|Download|`` het programma.    
-Zie je **Mauqeen** verschijnen op de echte micro:bit?
+Zie je **Maqueen** verschijnen op de echte micro:bit?
 
 ## Afsluiting
 Goed gedaan! Nu kan iedereen zien dat je robot Maqueen heet!
