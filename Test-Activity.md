@@ -1,7 +1,8 @@
 # Test tutorial - Activity Based lessons
 ### @activities true
 
-## Activity 1 @showdialog
+<!-- ## Activity 1 @showdialog -->
+## Activity 1
 Tijd om te gaan programmeren!
 
 ### Stap 1
