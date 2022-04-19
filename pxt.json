@@ -14,7 +14,8 @@
         "Test-2.md",
         "Test-3.md",
         "First_time.md",
-        "Naamkaart.md"
+        "Naamkaart.md",
+        "Test-4.md"
     ],
     "testFiles": [
         "test.ts"
