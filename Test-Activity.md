@@ -23,7 +23,7 @@ basic.forever(function () {
 Teken een figuurtje in het ``||basic:show leds||`` blok.
 
 
-## Introductie 2 @showdialog
+## Introductie 2
 De volgende activiteit!
 
 ## Stap 2-1
