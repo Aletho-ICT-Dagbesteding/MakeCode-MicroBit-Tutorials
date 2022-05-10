@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "First_time.md",
-        "Naamkaart.md"
+        "Naamkaart.md",
+        "Drive.md"
     ],
     "testFiles": [
         "test.ts"
