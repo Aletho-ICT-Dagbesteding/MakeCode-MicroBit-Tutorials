@@ -2,6 +2,7 @@
 
 ## Introductie @showdialog
 
+HENK!
 In deze tutorial ga jij Maqueen laten rondrijden. 
 Je gaat er zelfs voor zorgen dat die nergens tegenaan gaat botsen!
 
