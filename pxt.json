@@ -10,12 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "Test-1.md",
-        "Test-2.md",
-        "Test-3.md",
         "First_time.md",
-        "Naamkaart.md",
-        "Test-4.md"
+        "Naamkaart.md"
     ],
     "testFiles": [
         "test.ts"
